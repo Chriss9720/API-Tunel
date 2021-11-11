@@ -1,0 +1,85 @@
+@media(min-width:768px) {
+    .logo {
+        width: 25rem !important;
+    }
+}
+
+@media(max-width:768px) {
+    .logo {
+        width: 15rem !important;
+    }
+}
+
+@media(max-width:390px) {
+    .logo {
+        width: 10rem !important;
+    }
+}
+
+.minLogin {
+    min-height: 500px!important;
+}
+
+.minRegistro {
+    min-height: 630px!important
+}
+
+.sin {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+.form-control {
+    background-color: transparent !important;
+    border: 50rem !important;
+}
+
+.clickme {
+    cursor: pointer;
+}
+
+.btn {
+    background-color: #41B79B !important;
+    border-radius: 1rem !important;
+}
+
+.pie {
+    background-color: #C2E8DF !important;
+}
+
+.pieColor {
+    color: #108d73 !important;
+    font-size: 2.5rem !important;
+    font-family: 'fuente Arial Rounded MT Bold';
+}
+
+.cr {
+    width: 2.5rem !important;
+    height: 2.5rem !important;
+}
+
+.borderGrueso {
+    border: 2px solid #28a745!important;
+}
+
+.sel {
+    background-color: #108D73 !important;
+    color: #fff !important;
+}
+
+.btnAdd {
+    background-color: #00A99D !important;
+}
+
+.buscar {
+    background-color: #C2E8DF !important;
+    border-radius: 5px !important;
+}
+
+.areaBusqueda {
+    min-height: 50px !important;
+}
+
+.sinFondo {
+    background-color: transparent !important;
+}

@@ -1,0 +1,6 @@
+{
+    "Nombre": "TunelZ",
+    "configBD": {
+        "HOST": "mongodb://localhost:27017/sisT"
+    }
+}

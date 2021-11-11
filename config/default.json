@@ -1,0 +1,6 @@
+{
+    "Nombre": "TunelZ",
+    "configBD": {
+        "HOST": "mongodb+srv://root:root@cluster0.139jj.mongodb.net/sisT?retryWrites=true&w=majority"
+    }
+}
